@@ -16,7 +16,7 @@ These scripts on the other hand are run from your computer and can cause irrever
 
 # What is the purpose of obfuscation?
 
-The purpose of obfuscation is that they can be difficult to understand, hence, it can be useful to protect the original source from preying eyes.
+The purpose of obfuscation is that they can be difficult to understand, hence, it can be useful to protect the original source code from preying eyes.
 
 Obfuscated scripts can be difficult to detect from other antivirus software and can bypass security to gain access and put your machine at risk to hacking, ransomware infections..
 
